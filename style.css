@@ -1,0 +1,35 @@
+
+body{
+    margin:0;
+    overflow:hidden;
+    font-family: "Arial";
+    }
+    
+    #chatbox{
+        height:88vh;
+        overflow:hidden;
+        margin:10px auto;
+        padding: 10px;
+        text-align:left;
+    
+        background-image: url(https://www.solidbackgrounds.com/images/2560x1440/2560x1440-pale-lavender-solid-color-background.jpg);
+    
+    
+    form{
+    display: flex;
+    
+    }
+    
+    input{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    
+    }
+    
+    #msgbox{
+    flex:2;
+    
+    }
+    
